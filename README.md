@@ -1,5 +1,4 @@
 # Difference-Arrays-ArrayLists
-# Difference-Arrays-ArrayLists
 
 ## Description
 This project demonstrates the differences between Arrays and ArrayLists in Java. It includes examples of how to use both data structures, highlighting their respective advantages and limitations.
